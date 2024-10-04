@@ -1,4 +1,69 @@
-Spring Core
-Spring Boot
-Spring MVC
-Spring Data
+Plan de Aprendizaje para Spring Boot y Thymeleaf
+
+Semana 1: Fundamentos de Java y Spring
+	Repasar Java: Asegúrate de tener una comprensión sólida de Java, incluyendo OOP y colecciones.
+	Introducción a Spring Framework:
+		Leer sobre la arquitectura de Spring y su filosofía.
+		Instalar Spring Boot y crear un proyecto básico.
+
+Semana 2: Spring Boot Básico  :https://www.udemy.com/course/spring-boot-2-introduction/learn/lecture/25555174#overview
+	Aprender a configurar Spring Boot:
+	Configuración de application.properties o application.yml.
+	Conocer la estructura de un proyecto Spring Boot.
+	Crear tu primera API REST:
+	Crear controladores, servicios y repositorios.
+	Conectar a una base de datos utilizando Spring Data JPA.
+
+Semana 3: Introducción a Thymeleaf
+	Conceptos de Thymeleaf:
+	Integrar Thymeleaf en tu proyecto Spring Boot.
+	Crear plantillas HTML simples con Thymeleaf.
+	Manejo de formularios:
+	Crear formularios para entradas de datos (ej. registro de usuarios).
+
+Semana 4: Desarrollo de Funcionalidades de E-commerce
+	Modelado de Datos:
+	Diseñar entidades para el e-commerce (Producto, Usuario, Pedido, etc.).
+	Implementar repositorios y servicios para manejar estas entidades.
+	CRUD de Productos:
+	Crear vistas para listar, agregar, editar y eliminar productos usando Thymeleaf.
+
+Semana 5: Autenticación y Seguridad
+	Spring Security:
+	Implementar autenticación y autorización en tu aplicación.
+	Crear roles (Admin, Usuario) y restringir el acceso a ciertas páginas.
+
+Semana 6: Manejo de Pedidos y Carrito de Compras
+	Carrito de Compras:
+	Implementar la lógica para añadir y eliminar productos del carrito.
+	Gestión de Pedidos:
+	Crear vistas y lógica para realizar pedidos.
+
+Semana 7: Mejoras y Características Avanzadas
+	Mejorar la Interfaz de Usuario:
+	Usar CSS y JavaScript para mejorar la UI.
+	Características Avanzadas:
+	Implementar búsqueda de productos.
+	Agregar paginación y ordenamiento a las listas de productos.
+
+Semana 8: Despliegue y Pruebas
+	Pruebas:
+	Escribir pruebas unitarias e integradas para tu aplicación.
+	Despliegue:
+	Aprender sobre opciones de despliegue (Heroku, AWS, etc.).
+	Configurar tu aplicación para producción.
+	Recursos Sugeridos
+	Documentación:
+
+Spring Boot Documentation
+Thymeleaf Documentation
+Cursos en Línea:
+
+Busca cursos en plataformas como Udemy, Coursera o Pluralsight que se centren en Spring Boot y e-commerce.
+Proyectos de Ejemplo:
+
+Revisa proyectos de ejemplo en GitHub relacionados con e-commerce y Spring Boot.
+Práctica y Proyectos
+Al final de cada semana, intenta aplicar lo que has aprendido en un pequeño proyecto o funcionalidad dentro de tu e-commerce. La práctica es clave para solidificar tu conocimiento.
+
+Si tienes más preguntas o necesitas más detalles sobre un tema específico, ¡estaré encantado de ayudarte! ¡Buena suerte en tu aprendizaje!
